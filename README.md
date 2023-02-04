@@ -1,6 +1,1 @@
-- 👋 Currently serving.
-- 👀 Outdoors, Food, travelling and IT.
-- 🌱 Love the challenge.
-- 📫 contact me @ dan dot wood 449 at outlook dot com
-
-
+- 📫 contact me @ gunnerwoody 449 at gmail dot com
