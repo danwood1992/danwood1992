@@ -1,7 +1,7 @@
-### Full stack
-### Django Enthusiast
-### Serving 
-### Dad
+### Full stack Dev
+## Django Enthusiast
+## Serving 
+## Dad
 ----
 ##### Daily.
 ###  
