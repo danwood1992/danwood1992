@@ -1,4 +1,6 @@
+<div>
 <img src="header.svg" width="800" height="400">
+<div/>
 ##### Daily.
 ###  
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
