@@ -1,6 +1,7 @@
 <div>
 <img src="./header.svg" width="800" height="400">
 <div/>
+<div>
 ##### Daily.
 ###  
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -18,7 +19,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
+<div/>
 ----
 
 #### contact me @ gunnerwoody449atgmaildotcom
