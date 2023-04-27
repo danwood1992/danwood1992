@@ -1,5 +1,5 @@
 #### Fullstack Developer and Dad
-<br>
+---
 #### Django Enthusiast
 ##### Working Daily with these technologies
 ###  
