@@ -1,2 +1,3 @@
-## Django Enthusiast 
-#### daniel dot wood at talentfuse dot io
+### Fullstack 
+#### Django Enthusiast
+gunnerwoody449@gmail.com
