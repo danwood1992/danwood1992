@@ -18,5 +18,5 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ----
-- contact me 
-- gunnerwoody449@gmail.com
+
+#### contact me @ gunnerwoody449atgmaildotcom
