@@ -1,4 +1,4 @@
-### Fulltime Django Enthusiast and Dad.
+### Django Enthusiast, Serving and Dad.
 ----
 ##### Daily.
 ###  
