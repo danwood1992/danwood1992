@@ -1,4 +1,4 @@
-#### Fulltime Django Enthusiast and Dad
+### Fulltime Django Enthusiast and Dad
 ----
 ##### Working Daily with these technologies
 ###  
