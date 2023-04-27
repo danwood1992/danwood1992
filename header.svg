@@ -76,6 +76,10 @@
 					animation: 10s ease 0s normal forwards 2 fadeIn;
 				}
 			</style>
+			<div class="container">
+				<h1>Full stack Dev. &amp; CSS<br/>Django enthusiast.</h1>
+				
+			</div>
 			
 		</div>
 	</foreignObject>
