@@ -1,1 +1,2 @@
-- 📫 contact me  gunnerwoody 449 at gmail dot com
+### Django Enthusiast 
+# daniel dot wood at talentfuse dot io
