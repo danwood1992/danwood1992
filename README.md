@@ -1,6 +1,6 @@
-<div>
+<!-- <div>
 <img src="header.svg">
-<div/>
+<div/> -->
 
   
 ##### Daily.
@@ -22,8 +22,8 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 <div/>
 ----
-
+<!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danwood1992&count_private=true&show_icons=true&bg_color=00000000)
-
+ -->
 
 #### contact me @ gunnerwoody449atgmaildotcom
